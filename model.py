@@ -12,7 +12,7 @@ from sklearn.metrics import mean_absolute_error,f1_score
 from sklearn.preprocessing import StandardScaler,MinMaxScaler
 
 
-# saving model library
+# reading model library
 import pickle
 
 # access settings
